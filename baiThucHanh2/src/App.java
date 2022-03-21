@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
         double a, b, c, x1, x2, delta;
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Nhập a (a # 0): ");
+        System.out.print("Nhập a (a khác 0): ");
         a = scanner.nextDouble();
         System.out.print("Nhập b: ");
         b = scanner.nextDouble();
