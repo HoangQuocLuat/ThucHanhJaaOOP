@@ -3,7 +3,7 @@ import shapes.hinhTron;
 import shapes.hinhChuNhat;
 import shapes.hinhTru;
 import shapes.hinhVuong;
-public class mainClass {
+public class app54 {
     public static void main(String[] args) throws Exception {
         hinhTron ht = new hinhTron();
         ht.xuatTen();
